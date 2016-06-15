@@ -1,0 +1,45 @@
+"hash"
+How to update
+db.users.update({username:"admin"}, {$set: {admin:true}})
+Added the dish with id: 575b8bd173d25dca66d56cb6
+My TOKEN=
+{"username":"jassiel", "password":"abcdef"}
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyIkX18iOnsic3RyaWN0TW9kZSI6dHJ1ZSwic2VsZWN0ZWQiOnt9LCJnZXR0ZXJzIjp7fSwid2FzUG9wdWxhdGVkIjpmYWxzZSwiYWN0aXZlUGF0aHMiOnsicGF0aHMiOnsiYWRtaW4iOiJpbml0IiwiX192IjoiaW5pdCIsInVzZXJuYW1lIjoiaW5pdCIsImhhc2giOiJpbml0Iiwic2FsdCI6ImluaXQiLCJfaWQiOiJpbml0In0sInN0YXRlcyI6eyJpZ25vcmUiOnt9LCJkZWZhdWx0Ijp7fSwiaW5pdCI6eyJfX3YiOnRydWUsImFkbWluIjp0cnVlLCJ1c2VybmFtZSI6dHJ1ZSwiaGFzaCI6dHJ1ZSwic2FsdCI6dHJ1ZSwiX2lkIjp0cnVlfSwibW9kaWZ5Ijp7fSwicmVxdWlyZSI6e319LCJzdGF0ZU5hbWVzIjpbInJlcXVpcmUiLCJtb2RpZnkiLCJpbml0IiwiZGVmYXVsdCIsImlnbm9yZSJdfSwiZW1pdHRlciI6eyJkb21haW4iOm51bGwsIl9ldmVudHMiOnt9LCJfZXZlbnRzQ291bnQiOjAsIl9tYXhMaXN0ZW5lcnMiOjB9fSwiaXNOZXciOmZhbHNlLCJfZG9jIjp7ImFkbWluIjpmYWxzZSwiX192IjowLCJ1c2VybmFtZSI6Imphc3NpZWwiLCJoYXNoIjoiZGY3YTAzNzIzMjFhNDUzY2JiMjZiMzFmYWY4NzdjNmEzYTlkZmZkYWMzMTc5OTY5YjE3MjRmYjY4NmJkYzM0ZmE5YjE4MTA1YjM1ZjY0ZWRiODBiMWJhYTVhYzMzZGNhYzVkMWU3MzdmZTNiNTQ1MDc2N2M4NjBiZDMwNTg0ZGU5MDMyODEwOGM2Y2YwODdjZWVkNDZjMDk4YmI2N2MyYTVjZThlN2NiYjM0NzkxYzM0NjBiOTQxYzliYjAyNjM2OWI0NTI2NTJkMzU1MGI3OTMzYjI3MDMxM2FlNTFlZDEzN2NhMTFjYzk3NWJkNTEyNjM3YjQ1Y2FiNWQ2ODZiZTA5MjcxZTM5ZDgyYzQ0OGIwZTlkNjNjNzRiMjY4N2QwMTk0NDVlMWMzZjIxYzQwMDI0NWExYWFkMDM2ZDllN2Y5NTk1MTk1YTg0Yjg0ODI1ZDMzMzAzODhmMThiYzg4YmMxY2Y0Y2E3YWE4NmE1ODFhNzZiZWQ2ZTJmNDA0ZTk3YjViZmNiMzhiODQ2MWY4YWNkOTM5MmRlNGNhZjc1YzM1YWMzZTVhYTA1ZTQwZWJjYzlhZmVkNGM1MmJhZGM0NTg1NmRlMzJkZmQyYjExMGY4Y2Y3YWUxYzcwYzg5YTg3ZWViNTBkYmUwOGZiYmFkOTk5ZDQzODMxMDJmYmYyNzEzY2FjZjM0ODM1ZWQ2YTdiNjg4NDE0YjliODIyYWIxZTA1ZjkzYjk5OGFhNDA4NjBmNGEyMDVmOWUzZjI1NDBlOTE5ODlkYWQ2ODAxYTJmZmZlM2UwN2QwODQ1ZmExMzMxMDgyMmIwNWUxZDViYjRkN2RiMDkyNzg4MTFmYTU3NmNmOWNkZDczNzNiYTYxZTFjNmUzMmU4OTY5NzRlOTk3MjBiNzMyY2M5MDAyM2EzYjc2Njg1Y2ZhY2Q3OTNjZDdmMDg0NGE0MThkZjk5ODNkY2MwYjU1OGQyNTZkOWVlODIxZmM4MzNjYmY2OWU0M2NiZDkzYTE0ZmE4NmMwMDAzNTU4NzI5MDcyMjY0YjEzNzNjNmM0MTNmM2U5OTA5NDhmZjJkOGNiZjhlYjk1YTY2MjdjYzljMWQ1NjZkY2E1M2MxYzI2NzBkMjAyNzk5ZWZjZDQ0ZTAxZmQyZTliMTA5YTI4MzEyOTI1OTg1Yzc3OTRhMDUwZGI3ZmFhNzMwOTExYTcxOWExNjE3NTZmMzBlNDhiZDU3NzI1NGRiNGU4MmVlNmFjNTkwZGYxMmQxNzg1NmY0ZjhjYzExN2NlNDA5MTU5MjAzNjYxNmFlMTNlYzI2Y2U5NmY5ZDNlOGZjMjEzMzQ0YWFiM2Q4NWVmMDM5ZmRmNzJmYzIyNmQxM2VmMCIsInNhbHQiOiI4YjJlNGE0YTkzODMzYmNmNzU3YjVmMDU4N2E2YTAzZTQ5MmQ2ZTg2NzQyOGU3ZjE0NTY0ZGJmYTE2ODllYmI5IiwiX2lkIjoiNTc1Yjg4MTE3M2QyNWRjYTY2ZDU2Y2I0In0sIl9wcmVzIjp7IiRfX29yaWdpbmFsX3NhdmUiOltudWxsLG51bGwsbnVsbF19LCJfcG9zdHMiOnsiJF9fb3JpZ2luYWxfc2F2ZSI6W119LCJpYXQiOjE0NjU2MjA0MzksImV4cCI6MTQ2NTYyNDAzOX0.KyyFa4709pQoyDQYE9eB7gZKlj5Sysb8lAz0tu0iid8
+
+
+To do the GET:
+x-access-token then the TOKEN
+
+ADMIN TOKEN=
+{"username":"admin", "password":"abcdef"}
+
+exports.verifyAdminCopy = function(req, res, next) {
+    // check header or url parameters or post parameters for token
+    var token = req.body.token || req.query.token || req.headers['x-access-token'];
+
+    // get the decoded payload and header "req.decoded._doc.admin" NOT WORKING
+    var decAdmin = jwt.decode(token, { complete: true });
+
+    // decode token
+    if (token) {
+        // verifies secret and checks exp
+        jwt.verify(token, config.secretKey, function(err, decoded) {
+            if (err || !decAdmin.payload._doc.admin) {
+            // if (err || !req.decoded._doc.admin) {
+                var err = new Error('You are not authorized to perform this operation!');
+                err.status = 403;
+                return next(err);
+            } else {
+                // if everything is good, save to request for use in other routes
+                req.decoded = decoded;
+                next();
+            }
+        });
+    } else {
+        // if there is no token
+        // return an error
+        var err = new Error('No token provided!');
+        err.status = 403;
+        return next(err);
+    }
+};
